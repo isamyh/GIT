@@ -4,8 +4,6 @@ For å adde filer til git lokalt, for å så eventuelt commite.
 +
 `git add {files}`
 
-===
-
 Må ha melding, for at den skal commite
 +
 `git commit -m "Commit message"`
