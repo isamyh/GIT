@@ -1,0 +1,11 @@
+# Lære GIT
+
+`git add {files}`
+
+Må ha melding, for at den skal commite
+
+`git commit -m "Commit message"
+
+For å sette origin, med SSH key. 
+
+`git remote set-url origin git@github.com:<Username>/<Project>.git`
