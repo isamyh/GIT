@@ -1,7 +1,7 @@
 GIT
 ============
 
-
+Web server path: `/var/www/isakmyhrvold.no/git`
 
 --
 
