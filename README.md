@@ -1,9 +1,14 @@
-GIT Kommandoer
+GIT
 ============
 
-_En liste med mest brukte git kommandoer_
+
 
 --
+
+
+## GIT Kommandoer
+
+_En liste med mest brukte git kommandoer_
 
 ### Getting & Creating Projects
 
