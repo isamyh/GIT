@@ -1,0 +1,135 @@
+/* Coolors Exported Palette - coolors.co/e64b2b-000000-0c1821-faedca-140f2d */
+
+/* HSL */
+$color1: hsla(10%, 79%, 54%, 1);
+$color2: hsla(0%, 0%, 0%, 1);
+$color3: hsla(206%, 47%, 9%, 1);
+$color4: hsla(44%, 83%, 89%, 1);
+$color5: hsla(250%, 50%, 12%, 1);
+
+/* RGB */
+$color1: rgba(230, 75, 43, 1);
+$color2: rgba(0, 0, 0, 1);
+$color3: rgba(12, 24, 33, 1);
+$color4: rgba(250, 237, 202, 1);
+$color5: rgba(20, 15, 45, 1);
+
+
+/* CSS Document */
+
+/* Navbar */
+.navbar {
+	background-color: $color3; 
+}
+
+.navbar-toggler {
+
+	  margin-bottom: auto; 
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+padding-top: 15px;
+}
+.navbar-toggler-icon {
+	color: $color1;
+
+	font-size: 32px;
+}
+
+@media only screen and (min-width: 992px) {
+ .navbar li {
+	
+	color: white;
+
+	list-style-type: none;
+	margin-top: -20px; 
+	margin-bottom: -20px;
+}
+
+}
+
+@media only screen and (max-width: 992px) {
+ .navbar li {
+	
+	color: white;
+
+	list-style-type: none;
+
+}
+
+} 
+.navbar .nav-link:hover {
+	background-color: $color5; 
+	border: 20px $color5 solid;
+}
+.navbar .active {
+	background-color: $color5; 
+	border: 20px $color5 solid;
+}
+
+.navbar .nav-link {
+	background-color: $color1; 
+	color: white; 
+	
+	border: 20px $color1 solid;
+} 
+.navbar-nav {
+ margin: auto;
+}
+
+/* Main stuff */
+.jumbotron {
+	background-color: $color4;
+	color: black;
+	font-weight: 700;
+	border-radius: 0; 
+	border-top: 5px outset $color5; 
+	margin-bottom: 0;
+}
+
+.jumbotron .toc {
+	padding: 20px;
+	border-top: 5px outset $color4;
+	border-bottom: 1px inset $color4; 
+}
+
+.jumbotron .toc ul {
+	list-style-type: none;
+}
+
+.jumbotron .toc li {
+	border-bottom: 1px solid $color4;
+	padding: 10px; 
+	padding-left: 0px;
+}
+
+.jumbotron .illu img {
+	padding: 20px;
+	
+}
+
+.title-img {
+	padding: 5px;
+	margin-top: 20px;
+	height: 10rem;
+	margin-bottom: 30px;
+
+}
+
+
+
+
+
+.info {
+	margin: 0px;
+	background-color: $color1;
+}
+
+.info2 {
+	background-color: $color3;
+}
+
+.content {
+	padding: 20px; 
+	color: white; 
+}

@@ -1,7 +1,86 @@
+/* Coolors Exported Palette - coolors.co/e64b2b-000000-0c1821-faedca-140f2d */
+/* HSL */
+/* RGB */
 /* CSS Document */
+/* Navbar */
+.navbar {
+  background-color: #0c1821; }
 
+.navbar-toggler {
+  margin-bottom: auto;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  padding-top: 15px; }
+
+.navbar-toggler-icon {
+  color: #e64b2b;
+  font-size: 32px; }
+
+@media only screen and (min-width: 992px) {
+  .navbar li {
+    color: white;
+    list-style-type: none;
+    margin-top: -20px;
+    margin-bottom: -20px; } }
+@media only screen and (max-width: 992px) {
+  .navbar li {
+    color: white;
+    list-style-type: none; } }
+.navbar .nav-link:hover {
+  background-color: #140f2d;
+  border: 20px #140f2d solid; }
+
+.navbar .active {
+  background-color: #140f2d;
+  border: 20px #140f2d solid; }
+
+.navbar .nav-link {
+  background-color: #e64b2b;
+  color: white;
+  border: 20px #e64b2b solid; }
+
+.navbar-nav {
+  margin: auto; }
+
+/* Main stuff */
 .jumbotron {
-	background-color: darkorange;
-	color: white;
-	text-align: center;
-}
+  background-color: #faedca;
+  color: black;
+  font-weight: 700;
+  border-radius: 0;
+  border-top: 5px outset #140f2d;
+  margin-bottom: 0; }
+
+.jumbotron .toc {
+  padding: 20px;
+  border-top: 5px outset #faedca;
+  border-bottom: 1px inset #faedca; }
+
+.jumbotron .toc ul {
+  list-style-type: none; }
+
+.jumbotron .toc li {
+  border-bottom: 1px solid #faedca;
+  padding: 10px;
+  padding-left: 0px; }
+
+.jumbotron .illu img {
+  padding: 20px; }
+
+.title-img {
+  padding: 5px;
+  margin-top: 20px;
+  height: 10rem;
+  margin-bottom: 30px; }
+
+.info {
+  margin: 0px;
+  background-color: #e64b2b; }
+
+.info2 {
+  background-color: #0c1821; }
+
+.content {
+  padding: 20px;
+  color: white; }
