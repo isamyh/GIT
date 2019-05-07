@@ -25,10 +25,10 @@ $color5: rgba(20, 15, 45, 1);
 .navbar-toggler {
 
 	  margin-bottom: auto; 
-  margin: 0px;
-  padding: 0px;
-  text-align: center;
-padding-top: 15px;
+	  margin: 0px;
+	  padding: 0px;
+	  text-align: center;
+	padding-top: 15px;
 }
 .navbar-toggler-icon {
 	color: $color1;
@@ -42,8 +42,8 @@ padding-top: 15px;
 	color: white;
 
 	list-style-type: none;
-	margin-top: -20px; 
-	margin-bottom: -20px;
+	margin-top: -8px; 
+	margin-bottom: -12.5px;
 }
 
 }
@@ -122,11 +122,7 @@ padding-top: 15px;
 
 .info {
 	margin: 0px;
-	background-color: $color1;
-}
-
-.info2 {
-	background-color: $color3;
+	background-color: $color2;
 }
 
 .content {
