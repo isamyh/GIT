@@ -20,14 +20,12 @@
 	
 	  <div class="collapse navbar-collapse" id="navbarSupportedContent1">
 	    <ul class="navbar-nav">
-	      <li class="nav-item"> <a class="nav-link active" href="#">Hjem</a> </li>
-	      <li class="nav-item"> <a class="nav-link" href="#">Hva er GIT?</a> </li>
-	      <li class="nav-item"> <a class="nav-link " href="#">Hvorfor bruker vi det?</a> </li>
-       
-			   <li class="nav-item"> <a class="nav-link " href="#">Kommandoer</a> </li>
-			   <li class="nav-item"> <a class="nav-link" href="#">Om denne siden</a> </li>
-			   <li class="nav-item"> <a class="nav-link" href="#">Quiz</a> </li>
-			
-        </ul>
+	      <li class="nav-item"> <a class="nav-link active" href="?page=homepage">Hjem</a> </li>
+	      <li class="nav-item"> <a class="nav-link" href="?page=hva">Hva er GIT?</a> </li>
+	      <li class="nav-item"> <a class="nav-link " href="?page=hvorfor">Hvorfor bruker vi det?</a> </li>
+			  <li class="nav-item"> <a class="nav-link " href="?page=kommandoer">Kommandoer</a> </li>
+			  <li class="nav-item"> <a class="nav-link" href="?page=om">Om denne siden</a> </li>
+			  <li class="nav-item"> <a class="nav-link" href="?page=quiz">Quiz</a> </li>
+      </ul>
   </div>
 </nav>
